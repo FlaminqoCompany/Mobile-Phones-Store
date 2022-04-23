@@ -10,12 +10,13 @@
     session_start();
     $email_value = $_SESSION["email_value"];
 
-    $sql = "SELECT verification_code FROM users WHERE email='$email_value'";
+    $sql = "SELECT verification_code, password FROM users WHERE email='$email_value'";
     $result = $conn->query($sql);
 
     if($result->num_rows > 0){
         while($row = $result->fetch_assoc()){
             $verificaiton_code = $row["verification_code"];
+            $password = $row["password"];
         }
     }
 
@@ -30,8 +31,10 @@
 
     if($verificaiton_code == $verificaiton_code_string){
         $sql2 = "UPDATE users SET verified = 1 WHERE email='$email_value'";
-        if($conn->query($sql2) === TRUE)
+        if($conn->query($sql2) === TRUE){
+            $_SESSION["password_value"] = $password;
             echo '1';
+        }
         else
             echo '2';
     }
