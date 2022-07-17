@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "js-3d-model-viewer": "^0.1.7",
+    "js-image-zoom": "^0.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iphone 11
+* source:	https://sketchfab.com/3d-models/iphone-11-026fb8d7f18b4f5b9f79df112fc69f5c
+* author:	akhilbeeram (https://sketchfab.com/akhilbeeram)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iphone 11" (https://sketchfab.com/3d-models/iphone-11-026fb8d7f18b4f5b9f79df112fc69f5c) by akhilbeeram (https://sketchfab.com/akhilbeeram) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

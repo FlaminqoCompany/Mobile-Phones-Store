@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple iPhone 7
+* source:	https://sketchfab.com/3d-models/apple-iphone-7-7e82a204471e4ad2bd7595df7f9319da
+* author:	iSteven (https://sketchfab.com/Steven007)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple iPhone 7" (https://sketchfab.com/3d-models/apple-iphone-7-7e82a204471e4ad2bd7595df7f9319da) by iSteven (https://sketchfab.com/Steven007) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

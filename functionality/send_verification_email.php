@@ -31,14 +31,14 @@ if($result->num_rows == 0){
         if ($conn->query($sql) === TRUE) {
             $mail->SMTPDebug = 0;                      
             $mail->isSMTP();                                            
-            $mail->Host       = 'smtp.gmail.com';                     
+            $mail->Host       = 'smtp.mail.yahoo.com';                     
             $mail->SMTPAuth   = true;                                   
-            $mail->Username   = 'teamflaminqo@gmail.com';                    
-            $mail->Password   = 'flaminqocompany2022';                          
+            $mail->Username   = 'flaminqocompany@yahoo.com';                    
+            $mail->Password   = 'profesionalizm';                          
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;            
             $mail->Port       = 587;  
 
-            $mail->setFrom('teamflaminqo@gmail.com', 'Team Flaminqo');    
+            $mail->setFrom('flaminqocompany@yahoo.com', 'Team Flaminqo');    
             $mail->addAddress($to_email);
 
             $mail->isHTML(true);                               

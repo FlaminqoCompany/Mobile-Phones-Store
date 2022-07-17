@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung Galaxy S8
+* source:	https://sketchfab.com/3d-models/samsung-galaxy-s8-c5a7cbc400aa42b092f7302de1781ebd
+* author:	iSteven (https://sketchfab.com/Steven007)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung Galaxy S8" (https://sketchfab.com/3d-models/samsung-galaxy-s8-c5a7cbc400aa42b092f7302de1781ebd) by iSteven (https://sketchfab.com/Steven007) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
